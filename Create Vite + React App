@@ -1,0 +1,11 @@
+npm create vite@latest "folder Name"
+ 
+Y (option for yes)
+ 
+React (select)
+ 
+Javascript + swc (select)
+ 
+npm i
+ 
+npm run dev
